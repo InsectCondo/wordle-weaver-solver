@@ -218,7 +218,6 @@ aila
 aile
 aili
 ails
-aime
 ayme
 aimo
 aims
@@ -229,9 +228,7 @@ ains
 aint
 ainu
 aiod
-aion
 aips
-aire
 ayre
 airy
 airn
@@ -804,7 +801,6 @@ bats
 batt
 batz
 baud
-bauk
 baul
 baum
 baun
@@ -955,7 +951,6 @@ bioc
 biod
 biog
 biol
-bion
 byon
 bios
 biot
@@ -1101,20 +1096,15 @@ bonn
 bono
 bons
 boob
-bood
-boof
 book
-bool
 boom
 boon
 boor
 boos
 boot
-booz
 bopp
 bops
 bora
-bord
 bore
 borg
 borh
@@ -1122,7 +1112,6 @@ bori
 bork
 born
 boro
-bors
 bort
 boru
 bosc
@@ -1387,13 +1376,9 @@ capt
 carb
 card
 care
-carf
-cari
-cary
 cark
 carl
 carn
-caro
 carp
 carr
 cars
@@ -2133,7 +2118,6 @@ dins
 dint
 dioc
 diol
-dion
 dior
 dipl
 dips
@@ -2220,7 +2204,6 @@ doni
 donk
 donn
 dons
-dont
 doob
 dook
 dool
@@ -2528,7 +2511,6 @@ eine
 eyne
 eyot
 eyra
-eire
 eyre
 eiry
 eyry
@@ -2985,7 +2967,6 @@ find
 fine
 fini
 fink
-finn
 fino
 fins
 fioc
@@ -3394,7 +3375,6 @@ gyne
 ging
 gyny
 gink
-ginn
 gino
 gins
 gyor
@@ -3402,7 +3382,6 @@ gype
 gips
 gyps
 gird
-gire
 gyre
 gyri
 girl
@@ -3791,7 +3770,6 @@ heml
 hemp
 hems
 hemt
-hend
 heng
 henn
 hens
@@ -3807,9 +3785,7 @@ herm
 hern
 hero
 herp
-herr
 hers
-hert
 herv
 hess
 hest
@@ -3852,7 +3828,6 @@ hill
 hilo
 hilt
 hima
-hime
 hymn
 himp
 hims
@@ -3889,7 +3864,6 @@ hmas
 hmos
 hmso
 hnpa
-hoad
 hoag
 hoar
 hoax
@@ -5308,7 +5282,6 @@ lend
 leno
 lens
 lent
-leod
 leon
 leor
 leos
@@ -5356,7 +5329,6 @@ lych
 lick
 lida
 lyda
-lide
 lido
 lids
 lied
@@ -5375,7 +5347,6 @@ liin
 lija
 like
 lila
-lile
 lyle
 lili
 lily
@@ -5388,7 +5359,6 @@ limb
 lime
 lyme
 limy
-limm
 limn
 lymn
 limo
@@ -5842,7 +5812,6 @@ mews
 mezo
 mgal
 mhos
-miae
 mial
 myal
 mian
@@ -5897,7 +5866,6 @@ ming
 mini
 miny
 mink
-minn
 mino
 mins
 mint
@@ -6636,7 +6604,6 @@ oyez
 oiks
 oily
 oils
-oime
 oina
 oink
 oint
@@ -7158,7 +7125,6 @@ pipi
 pipy
 pips
 piqu
-pire
 pyre
 pirl
 pirn
@@ -7731,7 +7697,6 @@ ring
 rink
 rins
 rynt
-rion
 ryon
 rior
 riot
@@ -8145,7 +8110,6 @@ semi
 sena
 send
 sene
-senn
 sent
 seor
 seow
@@ -8244,7 +8208,6 @@ shum
 shun
 shut
 shwa
-siak
 sial
 siam
 sian
@@ -8266,7 +8229,6 @@ syed
 sieg
 siey
 sier
-sife
 sift
 sigh
 sign
@@ -8284,7 +8246,6 @@ silo
 silt
 sima
 simd
-sime
 simm
 simp
 sims
@@ -8297,10 +8258,8 @@ syne
 sing
 sinh
 sink
-synn
 sins
 siol
-sion
 sipc
 sipe
 syph
@@ -8532,8 +8491,6 @@ spat
 spaz
 spca
 spcc
-spck
-spcs
 spdl
 spdm
 spec
@@ -8847,7 +8804,6 @@ tdas
 tdcc
 tdma
 tdrs
-tead
 teak
 teal
 team
@@ -9005,7 +8961,6 @@ tink
 tino
 tins
 tint
-tion
 tiou
 tipe
 type
@@ -9050,7 +9005,6 @@ tnpc
 tnpk
 toad
 toag
-toat
 toba
 tobe
 tobi
@@ -9570,13 +9524,11 @@ vims
 vina
 vine
 viny
-vinn
 vino
 vins
 vint
 viol
 vips
-vire
 virg
 virl
 visa
@@ -9687,7 +9639,6 @@ waka
 wake
 wakf
 waki
-waky
 wald
 wale
 wali
@@ -9861,7 +9812,6 @@ wyly
 wilk
 will
 wilt
-wime
 wimp
 wina
 wind
@@ -9872,7 +9822,6 @@ wing
 wini
 winy
 wink
-winn
 wynn
 wino
 wins
@@ -9918,7 +9867,6 @@ woke
 woks
 wold
 wolf
-wolk
 woll
 womb
 womp
@@ -9930,15 +9878,12 @@ wont
 wood
 woof
 wool
-woom
-woon
 woos
 wopr
 wops
 word
 wore
 work
-worl
 worm
 worn
 wort
@@ -10058,10 +10003,8 @@ zina
 zinc
 zing
 zink
-zinn
 zino
 zins
-zion
 zipa
 zips
 zira
